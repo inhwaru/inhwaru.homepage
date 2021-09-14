@@ -1,1 +1,3 @@
 # inhwaru.homepage
+
+Initial update
